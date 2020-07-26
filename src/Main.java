@@ -21,5 +21,6 @@ public class Main {
             new Player();
         }
         new User();
+        System.out.println("init users ok!!");
     }
 }
